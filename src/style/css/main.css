@@ -1,0 +1,23 @@
+@import './reset.css';
+
+@font-face {
+    font-family: Avenir35; 
+    src: url('./../fonts/Avenir/Avenir35.ttf');
+   }
+@font-face {
+    font-family: Avenir55;
+    src: url('./../fonts/Avenir/AvenirLT55RomanRegular.ttf');
+   }
+@font-face {
+    font-family: Avenir65;
+    src: url('./../fonts/Avenir/AvenirLTStd65Medium.otf')
+   }
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1920px;
+    margin: 0 auto;
+}

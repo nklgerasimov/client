@@ -1,0 +1,45 @@
+
+.header-top {
+    padding-left: 109px;
+    padding-right: 82px;
+    display: flex;
+    justify-content: space-between;
+    height: 54px;
+    background: #31415B;
+    align-items: center;
+
+    font-size: 16px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.phone {
+    font-family: Avenir35;
+    font-weight: 300;
+
+    color: #FFFFFF;
+}
+
+.daySale {
+    padding-top: 3px; /* чтоб по центру было */
+    font-weight: 700;
+    font-family: Avenir65;
+    
+    color: #849EBD;
+}
+
+.daySale p {
+    color: #FFFFFF
+}
+
+.daySale .tt-none {
+    text-transform: none;
+}
+
+.faqs {
+    font-weight: 700;
+    font-family: Avenir55;
+
+    color: #FFFFFF;
+}
