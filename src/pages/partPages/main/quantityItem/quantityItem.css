@@ -1,0 +1,35 @@
+.QuantityItem__content {
+    /* max-width: 250px; */
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 25px;
+    margin-bottom: 50px;
+    border-left: 2px solid black;
+}
+
+.title {
+    font-family: Avenir65;
+    /* width: 298px; */
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 137.3%;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #3C2B23;
+}
+
+.subtitle {
+    font-family: Avenir35;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 151.8%;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #3C2B23;
+}

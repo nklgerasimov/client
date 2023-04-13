@@ -1,0 +1,14 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_31_120" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="60" height="60">
+<rect width="60" height="60" fill="url(#pattern0)"/>
+</mask>
+<g mask="url(#mask0_31_120)">
+<rect width="60" height="60" fill="#A78C70"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_31_120" transform="scale(0.0142857)"/>
+</pattern>
+<image id="image0_31_120" width="70" height="70" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAYAAABxLuKEAAAABmJLR0QA/wD/AP+gvaeTAAAEdklEQVR4nO2bSWgVSRjHf4kmrgyEKKJiXEYUD+6RcY0r42HGgVFQHBQPoicPioIioh4GHES8KS4XwZOICyK4wIiaQcjgEtGDoEFFxoUocY2JMXEOXzVZfFWvl6ru1tc/KPpBVX/9vf+r/qrqq3qQkZFhgaIAbfsCs4Fh6vNR4KkLp74V+gJ7gEbgS4cyNUmnkqY/UEtnQQpemCLgMrlF+e6FKTbULUFiSkFiEmZVbF6kEJMwk2PzIoWYhCmPzYsUYhLGVPfd092CjRlAL01dK/DWp51mZK7kh/dAi8+2DT7b+aYF/VDdcbiuy9MuTaVN+bsD6JkJk7tcAXrovnwhx5EqYKOuspCFAVihqyh0YYbrKgpdGO2obGO4DspB4GbAe8qB7UQYSWzialTqF9KffwM+x0/RzoWS6DGXgHsB7ykHpjjwRUsSwoxVJdUUevDVkgmjIRNGg6sY0wQcxv9qOSzFwDKgwvFzOhFluD4fo58b8viZquF6HjKRs54L6UIpsNyFYVfClABrHdmOhSz4asiE0ZAJoyETRoPf4NsAnANqgHrgM3DfwvNvAmeAG8iRkmZgEDAaWATMQUaeVNGCbFNsAXpr2vRCtkeCzh+qgek+fKgAjiDbMC4S4n63YDpRB4xXn0uBP5STl4DrqjwK6EgbknDyDiyNBLYBV9Xz6oFbwAGkt3j8ArxJizBePnQW8NCSI2uUzT7AfuBTnvaXgRHqngmE653WhQFYgLz3NpzYq2wOQGKL3/teA9PUvb8hvS5RYcqAl5YceIzka0uBf0Lc34Cc/QM4lrQw2y06sFrZ3BTBhrcwHYm9YBxKmOuWHt4E/IBsh9ZHtFWpfLvmWhjTBO9HQ10QqpGgOZfwOwQeS9X1bEQ7eYlj5vtAXW0cZvSCsI3JpRGTMA8MdUF4pq4DLdgaoK7OD16bhDlt6Rnd1PWjBVtNXWw6wyTMPiRYRmWwuj62YOuRug6xYMuISZjXSKK5OeIzvB1EG3ngv9W10tgqJqYj8SbKsOiNcFGG2Q/IVm0x9pYokZLh14AxwGJgIfJqBB3NqpBF4mZk/RNmNNwFvAImIj9UmMGhDJlBp/Ko7laC/7IXsJe4LwZmAhdJ2WmHXchC8E/8jS6ngJVIcswv45BkV1cagdvIeu1nYH0Am7HxE5Lb0fWSOkSQIH8289htsNsGnCTPLDyJHgOybqpBNuaGAvORbF0J8AL5RW8hX6SECHmTHBQBvwOjkJn0O4u2I7MHOER7hjAXg5B4dCaEfVOP6Vh26gwk1WOKkGzeGmTSVgM8R3pGf0SwsUgMqnbox1I04iQlTGuHz8NoT0Lla2ubobqKpPaVgowwbc68kHiWk6SECdILXAqjXSgXsjBPkDlVTr6FV8lFjKlGlina7EEagm8+wvSYE+ReSzUi/yO/m89A2oT5zNc+hRGmRpXQpOVVqgUmISv3Y13qXAbf1LGe9nzIX3x9ouFX4D/V5kS8riXLOuAO5v92lyEHHI/H4lFKGI7/cy+jXDqSkZHhlP8BC+TxHU8RNxYAAAAASUVORK5CYII="/>
+</defs>
+</svg>

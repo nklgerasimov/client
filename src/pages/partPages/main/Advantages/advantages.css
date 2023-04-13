@@ -1,0 +1,9 @@
+.advantages {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 25px;
+    padding: 54px 145px 50px 145px;
+    justify-content: space-between;
+
+    background: #F2EEEA;
+}

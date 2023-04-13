@@ -1,0 +1,18 @@
+.main {
+    /* width: 100%; */
+    
+    display: flex;
+    overflow: hidden;
+}
+
+/* .main img {
+    object-fit: cover;
+} */
+
+.img-shopNow {
+    max-width: 32%;
+}
+
+.img-photo-main {
+    max-width: 70%;
+}

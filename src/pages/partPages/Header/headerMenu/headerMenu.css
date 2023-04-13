@@ -1,0 +1,14 @@
+.headerMenu {
+    display: flex;
+
+    height: 150px;
+    padding: 24px 82px 25px 84px;
+    align-items: center;
+    border: 1px solid gray;
+
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+

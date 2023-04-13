@@ -1,29 +1,17 @@
-
-.headerMenu {
-    display: flex;
-
-    height: 150px;
-    padding: 24px 82px 25px 84px;
-    align-items: center;
-    border: 1px solid gray;
-}
-
-.logo {
-    
-}
-
 .nav-menu {
-    max-width: 1017px;
+    width: 1017px;
     margin-left: 34px;
     list-style: none;
     display: flex;
-    /* justify-content: space-between; */
-    /* column-gap: 30px; */
+    /* justify-content: stretch; */
+    flex-wrap: wrap;
+    row-gap: 5px;
+
 }
 
 .nav-menu__item {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 19px;
+    padding-left: 19px;    
     border-right: 1px solid rgba(60, 43, 35, 0.5);
 
     /* font-family: 'Avenir LT 55 Roman'; */
@@ -36,4 +24,11 @@
     letter-spacing: 0.05em;
     
     color: #3C2B23;
+
+    transition: 0.3s ease-in;
+}
+
+.nav-menu__item:hover {
+    color: #A78C70;
+    
 }

@@ -1,0 +1,28 @@
+.centrWrapper {
+    padding-top: 106px;
+    padding-bottom: 100px;
+
+    height: auto;
+
+    background: url('./img/bg.png');
+}
+
+.img-bg {
+    display: flex;
+    align-items: center;
+}
+
+.rImg {
+    max-width: 17.5%;
+    /* max-height: 232px; */
+}
+
+.centrImg {
+    /* max-width: 1229px; */
+    width: 65%;
+    /* max-height: 572px; */
+}
+
+/* .centWrapper img {
+    object-fit: contain;
+} */

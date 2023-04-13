@@ -1,0 +1,41 @@
+.AdvantageItem__content {
+    width: 340px;
+    height: 217px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 15px;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+}
+
+.title {
+    font-family: Avenir65;
+    width: 298px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 137.3%;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #3C2B23;
+
+    white-space: pre-line;
+}
+
+.subtitle {
+    font-family: Avenir35;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 151.8%;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #3C2B23;
+}
