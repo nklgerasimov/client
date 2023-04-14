@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import './navItemsHeader.css'
 
 const NavItemsHeader = () => {
@@ -10,7 +11,8 @@ const NavItemsHeader = () => {
         <li><a className="nav-menu__item" href='#!'>Mattresses</a></li>
         <li><a className="nav-menu__item" href='#!'>Platform Bed</a></li>
         <li><a className="nav-menu__item" href='#!'>Duvets</a></li>
-        <li><a className="nav-menu__item" href='#!'>About US</a></li>
+        <li><Link to="/about" className="nav-menu__item">About US</Link></li>
+        {/* <li><Link to="/about">About US</Link></li> */}
         <li><a className="nav-menu__item" href='#!'>Blog</a></li>
     </nav>
   )

@@ -3,6 +3,7 @@ import centrImg from './img/centr.jpg'
 import rImg from './img/r.jpg'
 import './centrWrapper.css'
 import Quantity from './../Quantity/Quantity'
+import Other from '../Others/Other'
 
 const CentrWrapper = () => {
   return (
@@ -13,6 +14,7 @@ const CentrWrapper = () => {
             <img className='rImg' src={rImg}/>
         </div>
         <Quantity/>
+        <Other/>
     </div>
 
   )

@@ -1,6 +1,7 @@
 import React from 'react'
 import shopNow from './img/shopNow.jpg';
 import photo from './img/Photo.jpg';
+import ourProducts from './img/OurProducts.jpg'
 
 import './main.css'
 import Advantages from './Advantages/Advantages';
@@ -15,6 +16,7 @@ const Main = () => {
         </div>
         <Advantages/>
         <CentrWrapper/>
+        <img src={ourProducts} alt="Our Products" />
     </div>
   )
 }
