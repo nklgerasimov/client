@@ -7,7 +7,7 @@
     border: 1px solid gray;
 
     
-    overflow: hidden;
+    /* overflow: hidden; */
     text-overflow: ellipsis;
 }
 
