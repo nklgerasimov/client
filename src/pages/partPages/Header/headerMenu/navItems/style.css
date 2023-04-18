@@ -8,7 +8,7 @@
 	cursor: pointer;
 }
 
-.nav-menu__item:focus, .dropdown__button--active {
+.nav-menu__item:focus, .nav-menu__item--active {
 	outline: none;
 	/* box-shadow: 0px 0px 0px 4px rgba(176, 198, 225, 0.6); */
 }

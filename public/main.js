@@ -1,3 +1,13 @@
+// Полифилл для метода forEach для NodeList
+// if (window.NodeList && !NodeList.prototype.forEach) {
+// 	NodeList.prototype.forEach = function (callback, thisArg) {
+// 		thisArg = thisArg || window;
+// 		for (var i = 0; i < this.length; i++) {
+// 			callback.call(thisArg, this[i], i, this);
+// 		}
+// 	};
+// }
+
 document.querySelectorAll('.dropdown').forEach(function (dropDownWrapper) {
 	const dropDownBtn = dropDownWrapper.querySelector('.nav-menu__item');
 	const dropDownList = dropDownWrapper.querySelector('.dropdown__list');
@@ -8,7 +18,6 @@ document.querySelectorAll('.dropdown').forEach(function (dropDownWrapper) {
 	dropDownBtn.addEventListener('click', function (e) {
 		dropDownList.classList.toggle('dropdown__list--visible');
         this.classList.add('nav-menu__item--active');
-		console.log('ok')
 	});
 
 	// Выбор элемента списка. Запомнить выбранное значение. Закрыть дропдаун
