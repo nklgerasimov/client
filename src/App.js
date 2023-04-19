@@ -4,6 +4,8 @@ import Header from "./pages/partPages/Header/Header";
 import Main from "./pages/partPages/main/Main";
 import { Route } from "react-router-dom";
 
+import './main.js'
+
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
         <div className="App">
           <Header/>
           <AppRouter/>
+
           {/* <Main/> */}
         </div>
 

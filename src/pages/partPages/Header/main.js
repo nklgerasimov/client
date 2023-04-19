@@ -1,3 +1,5 @@
+function dropdawn() {
+
 	document.querySelectorAll('.dropdown').forEach(function (dropDownWrapper) {
 		const dropDownBtn = dropDownWrapper.querySelector('.nav-menu__item');
 		const dropDownList = dropDownWrapper.querySelector('.dropdown__list');
@@ -9,6 +11,7 @@
 			console.log('ok')
 		});
 	});
+}
 
-
+export default dropdawn();
 
