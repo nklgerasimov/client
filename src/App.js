@@ -4,7 +4,7 @@ import Header from "./pages/partPages/Header/Header";
 import Main from "./pages/partPages/main/Main";
 import { Route } from "react-router-dom";
 
-import './main.js'
+// import './main.js'
 
 
 function App() {
