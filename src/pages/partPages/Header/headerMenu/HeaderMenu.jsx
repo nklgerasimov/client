@@ -7,6 +7,8 @@ import Asset from './asset/Asset';
 import Logo from './logo/Logo';
 import NavItemsHeader from './navItems/NavItemsHeader';
 
+import './main.js'
+
 const HeaderMenu = () => {
   return (
     <div className="container">

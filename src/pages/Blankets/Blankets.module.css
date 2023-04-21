@@ -1,0 +1,8 @@
+.bigFoto {
+    width: 1091px;
+    height: 710px;
+    border: 1px solid grey;
+    display: block;
+    align-items: center;
+    text-align: center;
+}

@@ -49,13 +49,8 @@ import { useEffect } from 'react'
     });
 
  }
- Dropdown()
 
 const NavItemsHeader = () => {
-    useEffect(() => {
-
-    })
-
     
     return (
     <nav className="nav-menu">
