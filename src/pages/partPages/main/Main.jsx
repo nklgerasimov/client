@@ -4,7 +4,7 @@ import photo from './img/Photo.jpg';
 import ourProducts from './img/OurProducts.jpg'
 
 import './main.css'
-import Advantages from './Advantages/Advantages';
+import Advantages from './../Advantages/Advantages';
 import CentrWrapper from './centrWrapper/CentrWrapper';
 
 const Main = () => {
